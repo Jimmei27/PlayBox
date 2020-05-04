@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gitPgTest/static/css/main.ac2a6713.chunk.css",
-    "main.js": "/gitPgTest/static/js/main.5564d10b.chunk.js",
-    "main.js.map": "/gitPgTest/static/js/main.5564d10b.chunk.js.map",
+    "main.css": "/gitPgTest/static/css/main.66b78df2.chunk.css",
+    "main.js": "/gitPgTest/static/js/main.ef02c25e.chunk.js",
+    "main.js.map": "/gitPgTest/static/js/main.ef02c25e.chunk.js.map",
     "runtime-main.js": "/gitPgTest/static/js/runtime-main.62a13408.js",
     "runtime-main.js.map": "/gitPgTest/static/js/runtime-main.62a13408.js.map",
     "static/js/2.4f182abf.chunk.js": "/gitPgTest/static/js/2.4f182abf.chunk.js",
     "static/js/2.4f182abf.chunk.js.map": "/gitPgTest/static/js/2.4f182abf.chunk.js.map",
     "index.html": "/gitPgTest/index.html",
-    "precache-manifest.753fd5563f2a29713415c9130555a0d2.js": "/gitPgTest/precache-manifest.753fd5563f2a29713415c9130555a0d2.js",
+    "precache-manifest.9054ef0e0066dc447b5c11935ba23fdd.js": "/gitPgTest/precache-manifest.9054ef0e0066dc447b5c11935ba23fdd.js",
     "service-worker.js": "/gitPgTest/service-worker.js",
-    "static/css/main.ac2a6713.chunk.css.map": "/gitPgTest/static/css/main.ac2a6713.chunk.css.map",
+    "static/css/main.66b78df2.chunk.css.map": "/gitPgTest/static/css/main.66b78df2.chunk.css.map",
     "static/js/2.4f182abf.chunk.js.LICENSE.txt": "/gitPgTest/static/js/2.4f182abf.chunk.js.LICENSE.txt",
     "static/media/App.css": "/gitPgTest/static/media/snakeGameBackground.e9b6c826.jpg",
     "static/media/hm0.png": "/gitPgTest/static/media/hm0.496ced7e.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.62a13408.js",
     "static/js/2.4f182abf.chunk.js",
-    "static/css/main.ac2a6713.chunk.css",
-    "static/js/main.5564d10b.chunk.js"
+    "static/css/main.66b78df2.chunk.css",
+    "static/js/main.ef02c25e.chunk.js"
   ]
 }
