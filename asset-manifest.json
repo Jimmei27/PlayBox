@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/gitPgTest/static/css/main.6f4010bf.chunk.css",
-    "main.js": "/gitPgTest/static/js/main.979038a2.chunk.js",
-    "main.js.map": "/gitPgTest/static/js/main.979038a2.chunk.js.map",
+    "main.js": "/gitPgTest/static/js/main.84637dba.chunk.js",
+    "main.js.map": "/gitPgTest/static/js/main.84637dba.chunk.js.map",
     "runtime-main.js": "/gitPgTest/static/js/runtime-main.62a13408.js",
     "runtime-main.js.map": "/gitPgTest/static/js/runtime-main.62a13408.js.map",
-    "static/js/2.930886ed.chunk.js": "/gitPgTest/static/js/2.930886ed.chunk.js",
-    "static/js/2.930886ed.chunk.js.map": "/gitPgTest/static/js/2.930886ed.chunk.js.map",
+    "static/js/2.6139a202.chunk.js": "/gitPgTest/static/js/2.6139a202.chunk.js",
+    "static/js/2.6139a202.chunk.js.map": "/gitPgTest/static/js/2.6139a202.chunk.js.map",
     "index.html": "/gitPgTest/index.html",
-    "precache-manifest.4a00d097de7a777d48d71639b522c320.js": "/gitPgTest/precache-manifest.4a00d097de7a777d48d71639b522c320.js",
+    "precache-manifest.ecbf61f9c76cc8f628d74df7437310e5.js": "/gitPgTest/precache-manifest.ecbf61f9c76cc8f628d74df7437310e5.js",
     "service-worker.js": "/gitPgTest/service-worker.js",
     "static/css/main.6f4010bf.chunk.css.map": "/gitPgTest/static/css/main.6f4010bf.chunk.css.map",
-    "static/js/2.930886ed.chunk.js.LICENSE.txt": "/gitPgTest/static/js/2.930886ed.chunk.js.LICENSE.txt",
+    "static/js/2.6139a202.chunk.js.LICENSE.txt": "/gitPgTest/static/js/2.6139a202.chunk.js.LICENSE.txt",
     "static/media/App.css": "/gitPgTest/static/media/snakeGameBackground.e9b6c826.jpg",
     "static/media/hm0.png": "/gitPgTest/static/media/hm0.496ced7e.png",
     "static/media/hm1.png": "/gitPgTest/static/media/hm1.3c9a3c92.png",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.62a13408.js",
-    "static/js/2.930886ed.chunk.js",
+    "static/js/2.6139a202.chunk.js",
     "static/css/main.6f4010bf.chunk.css",
-    "static/js/main.979038a2.chunk.js"
+    "static/js/main.84637dba.chunk.js"
   ]
 }
