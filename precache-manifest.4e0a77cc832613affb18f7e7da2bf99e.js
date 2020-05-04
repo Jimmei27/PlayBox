@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "904133f0e086a314c319ea0c5fcf723a",
+    "revision": "2483f7f27d0c3aa6b696c38524df3b53",
     "url": "/PlayBox/index.html"
   },
   {
-    "revision": "31ee5d60a2e84caaa50d",
+    "revision": "efdd5b91c1ada3a50457",
     "url": "/PlayBox/static/css/main.aec14557.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PlayBox/static/js/2.4f182abf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "31ee5d60a2e84caaa50d",
-    "url": "/PlayBox/static/js/main.8b16dd2c.chunk.js"
+    "revision": "efdd5b91c1ada3a50457",
+    "url": "/PlayBox/static/js/main.d3c31746.chunk.js"
   },
   {
     "revision": "55d8df852797e5ae57cb",

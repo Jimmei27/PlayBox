@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PlayBox/static/css/main.aec14557.chunk.css",
-    "main.js": "/PlayBox/static/js/main.8b16dd2c.chunk.js",
-    "main.js.map": "/PlayBox/static/js/main.8b16dd2c.chunk.js.map",
+    "main.js": "/PlayBox/static/js/main.d3c31746.chunk.js",
+    "main.js.map": "/PlayBox/static/js/main.d3c31746.chunk.js.map",
     "runtime-main.js": "/PlayBox/static/js/runtime-main.f25733c0.js",
     "runtime-main.js.map": "/PlayBox/static/js/runtime-main.f25733c0.js.map",
     "static/js/2.4f182abf.chunk.js": "/PlayBox/static/js/2.4f182abf.chunk.js",
     "static/js/2.4f182abf.chunk.js.map": "/PlayBox/static/js/2.4f182abf.chunk.js.map",
     "index.html": "/PlayBox/index.html",
-    "precache-manifest.c353fb30afad466be0373b026af2b0ae.js": "/PlayBox/precache-manifest.c353fb30afad466be0373b026af2b0ae.js",
+    "precache-manifest.4e0a77cc832613affb18f7e7da2bf99e.js": "/PlayBox/precache-manifest.4e0a77cc832613affb18f7e7da2bf99e.js",
     "service-worker.js": "/PlayBox/service-worker.js",
     "static/css/main.aec14557.chunk.css.map": "/PlayBox/static/css/main.aec14557.chunk.css.map",
     "static/js/2.4f182abf.chunk.js.LICENSE.txt": "/PlayBox/static/js/2.4f182abf.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.f25733c0.js",
     "static/js/2.4f182abf.chunk.js",
     "static/css/main.aec14557.chunk.css",
-    "static/js/main.8b16dd2c.chunk.js"
+    "static/js/main.d3c31746.chunk.js"
   ]
 }
