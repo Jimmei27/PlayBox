@@ -1,23 +1,33 @@
 {
   "files": {
     "main.css": "/gitPgTest/static/css/main.6f4010bf.chunk.css",
-    "main.js": "/gitPgTest/static/js/main.3c905861.chunk.js",
-    "main.js.map": "/gitPgTest/static/js/main.3c905861.chunk.js.map",
+    "main.js": "/gitPgTest/static/js/main.f60fe8b0.chunk.js",
+    "main.js.map": "/gitPgTest/static/js/main.f60fe8b0.chunk.js.map",
     "runtime-main.js": "/gitPgTest/static/js/runtime-main.62a13408.js",
     "runtime-main.js.map": "/gitPgTest/static/js/runtime-main.62a13408.js.map",
-    "static/js/2.c3cae394.chunk.js": "/gitPgTest/static/js/2.c3cae394.chunk.js",
-    "static/js/2.c3cae394.chunk.js.map": "/gitPgTest/static/js/2.c3cae394.chunk.js.map",
+    "static/js/2.930886ed.chunk.js": "/gitPgTest/static/js/2.930886ed.chunk.js",
+    "static/js/2.930886ed.chunk.js.map": "/gitPgTest/static/js/2.930886ed.chunk.js.map",
     "index.html": "/gitPgTest/index.html",
-    "precache-manifest.c0d91992eb7bc9197778df5b18660746.js": "/gitPgTest/precache-manifest.c0d91992eb7bc9197778df5b18660746.js",
+    "precache-manifest.d37f92dc9ea00d73b7a794efc0ab7a35.js": "/gitPgTest/precache-manifest.d37f92dc9ea00d73b7a794efc0ab7a35.js",
     "service-worker.js": "/gitPgTest/service-worker.js",
     "static/css/main.6f4010bf.chunk.css.map": "/gitPgTest/static/css/main.6f4010bf.chunk.css.map",
-    "static/js/2.c3cae394.chunk.js.LICENSE.txt": "/gitPgTest/static/js/2.c3cae394.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/gitPgTest/static/media/snakeGameBackground.e9b6c826.jpg"
+    "static/js/2.930886ed.chunk.js.LICENSE.txt": "/gitPgTest/static/js/2.930886ed.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/gitPgTest/static/media/snakeGameBackground.e9b6c826.jpg",
+    "static/media/hm0.png": "/gitPgTest/static/media/hm0.496ced7e.png",
+    "static/media/hm1.png": "/gitPgTest/static/media/hm1.3c9a3c92.png",
+    "static/media/hm2.png": "/gitPgTest/static/media/hm2.36986b1e.png",
+    "static/media/hm3.png": "/gitPgTest/static/media/hm3.cbbca703.png",
+    "static/media/hm4.png": "/gitPgTest/static/media/hm4.13e04aad.png",
+    "static/media/hm5.png": "/gitPgTest/static/media/hm5.138db7e9.png",
+    "static/media/hm6.png": "/gitPgTest/static/media/hm6.423871d0.png",
+    "static/media/paper.svg": "/gitPgTest/static/media/paper.12d7a034.svg",
+    "static/media/rock.svg": "/gitPgTest/static/media/rock.ac6d87c3.svg",
+    "static/media/scissors.svg": "/gitPgTest/static/media/scissors.63124574.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.62a13408.js",
-    "static/js/2.c3cae394.chunk.js",
+    "static/js/2.930886ed.chunk.js",
     "static/css/main.6f4010bf.chunk.css",
-    "static/js/main.3c905861.chunk.js"
+    "static/js/main.f60fe8b0.chunk.js"
   ]
 }
