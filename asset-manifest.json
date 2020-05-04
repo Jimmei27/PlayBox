@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gitPgTest/static/css/main.d1b05096.chunk.css",
+    "main.js": "/gitPgTest/static/js/main.09a819aa.chunk.js",
+    "main.js.map": "/gitPgTest/static/js/main.09a819aa.chunk.js.map",
+    "runtime-main.js": "/gitPgTest/static/js/runtime-main.62a13408.js",
+    "runtime-main.js.map": "/gitPgTest/static/js/runtime-main.62a13408.js.map",
+    "static/js/2.2238cace.chunk.js": "/gitPgTest/static/js/2.2238cace.chunk.js",
+    "static/js/2.2238cace.chunk.js.map": "/gitPgTest/static/js/2.2238cace.chunk.js.map",
+    "index.html": "/gitPgTest/index.html",
+    "precache-manifest.70d0345d5ba96f556f51b73a036e7153.js": "/gitPgTest/precache-manifest.70d0345d5ba96f556f51b73a036e7153.js",
+    "service-worker.js": "/gitPgTest/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/gitPgTest/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2238cace.chunk.js.LICENSE.txt": "/gitPgTest/static/js/2.2238cace.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gitPgTest/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62a13408.js",
+    "static/js/2.2238cace.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.09a819aa.chunk.js"
+  ]
+}
