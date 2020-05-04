@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gitPgTest/static/css/main.5af8b847.chunk.css",
+    "main.css": "/gitPgTest/static/css/main.f7b37c3c.chunk.css",
     "main.js": "/gitPgTest/static/js/main.5564d10b.chunk.js",
     "main.js.map": "/gitPgTest/static/js/main.5564d10b.chunk.js.map",
     "runtime-main.js": "/gitPgTest/static/js/runtime-main.62a13408.js",
@@ -8,9 +8,9 @@
     "static/js/2.4f182abf.chunk.js": "/gitPgTest/static/js/2.4f182abf.chunk.js",
     "static/js/2.4f182abf.chunk.js.map": "/gitPgTest/static/js/2.4f182abf.chunk.js.map",
     "index.html": "/gitPgTest/index.html",
-    "precache-manifest.16cfb8af780a40f83faaa8ea2a755945.js": "/gitPgTest/precache-manifest.16cfb8af780a40f83faaa8ea2a755945.js",
+    "precache-manifest.d3060f916f985fb263ef0b3364d22d79.js": "/gitPgTest/precache-manifest.d3060f916f985fb263ef0b3364d22d79.js",
     "service-worker.js": "/gitPgTest/service-worker.js",
-    "static/css/main.5af8b847.chunk.css.map": "/gitPgTest/static/css/main.5af8b847.chunk.css.map",
+    "static/css/main.f7b37c3c.chunk.css.map": "/gitPgTest/static/css/main.f7b37c3c.chunk.css.map",
     "static/js/2.4f182abf.chunk.js.LICENSE.txt": "/gitPgTest/static/js/2.4f182abf.chunk.js.LICENSE.txt",
     "static/media/App.css": "/gitPgTest/static/media/snakeGameBackground.e9b6c826.jpg",
     "static/media/hm0.png": "/gitPgTest/static/media/hm0.496ced7e.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.62a13408.js",
     "static/js/2.4f182abf.chunk.js",
-    "static/css/main.5af8b847.chunk.css",
+    "static/css/main.f7b37c3c.chunk.css",
     "static/js/main.5564d10b.chunk.js"
   ]
 }
