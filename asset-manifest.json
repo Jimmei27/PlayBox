@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/gitPgTest/static/css/main.fbc9f65c.chunk.css",
-    "main.js": "/gitPgTest/static/js/main.6868c10c.chunk.js",
-    "main.js.map": "/gitPgTest/static/js/main.6868c10c.chunk.js.map",
+    "main.css": "/gitPgTest/static/css/main.6f4010bf.chunk.css",
+    "main.js": "/gitPgTest/static/js/main.98eaf746.chunk.js",
+    "main.js.map": "/gitPgTest/static/js/main.98eaf746.chunk.js.map",
     "runtime-main.js": "/gitPgTest/static/js/runtime-main.62a13408.js",
     "runtime-main.js.map": "/gitPgTest/static/js/runtime-main.62a13408.js.map",
-    "static/js/2.ee77f972.chunk.js": "/gitPgTest/static/js/2.ee77f972.chunk.js",
-    "static/js/2.ee77f972.chunk.js.map": "/gitPgTest/static/js/2.ee77f972.chunk.js.map",
+    "static/js/2.f7e35ad5.chunk.js": "/gitPgTest/static/js/2.f7e35ad5.chunk.js",
+    "static/js/2.f7e35ad5.chunk.js.map": "/gitPgTest/static/js/2.f7e35ad5.chunk.js.map",
     "index.html": "/gitPgTest/index.html",
-    "precache-manifest.72a95f3ce4bd82231aa7b17723b86053.js": "/gitPgTest/precache-manifest.72a95f3ce4bd82231aa7b17723b86053.js",
+    "precache-manifest.41b6bfaecb25549e5f7a095a0eb034b4.js": "/gitPgTest/precache-manifest.41b6bfaecb25549e5f7a095a0eb034b4.js",
     "service-worker.js": "/gitPgTest/service-worker.js",
-    "static/css/main.fbc9f65c.chunk.css.map": "/gitPgTest/static/css/main.fbc9f65c.chunk.css.map",
-    "static/js/2.ee77f972.chunk.js.LICENSE.txt": "/gitPgTest/static/js/2.ee77f972.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/gitPgTest/static/media/background.ebe2e160.jpg"
+    "static/css/main.6f4010bf.chunk.css.map": "/gitPgTest/static/css/main.6f4010bf.chunk.css.map",
+    "static/js/2.f7e35ad5.chunk.js.LICENSE.txt": "/gitPgTest/static/js/2.f7e35ad5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/gitPgTest/static/media/snakeGameBackground.e9b6c826.jpg",
+    "static/media/hm0.png": "/gitPgTest/static/media/hm0.496ced7e.png",
+    "static/media/hm1.png": "/gitPgTest/static/media/hm1.3c9a3c92.png",
+    "static/media/hm2.png": "/gitPgTest/static/media/hm2.36986b1e.png",
+    "static/media/hm3.png": "/gitPgTest/static/media/hm3.cbbca703.png",
+    "static/media/hm4.png": "/gitPgTest/static/media/hm4.13e04aad.png",
+    "static/media/hm5.png": "/gitPgTest/static/media/hm5.138db7e9.png",
+    "static/media/hm6.png": "/gitPgTest/static/media/hm6.423871d0.png",
+    "static/media/paper.svg": "/gitPgTest/static/media/paper.12d7a034.svg",
+    "static/media/rock.svg": "/gitPgTest/static/media/rock.ac6d87c3.svg",
+    "static/media/scissors.svg": "/gitPgTest/static/media/scissors.63124574.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.62a13408.js",
-    "static/js/2.ee77f972.chunk.js",
-    "static/css/main.fbc9f65c.chunk.css",
-    "static/js/main.6868c10c.chunk.js"
+    "static/js/2.f7e35ad5.chunk.js",
+    "static/css/main.6f4010bf.chunk.css",
+    "static/js/main.98eaf746.chunk.js"
   ]
 }
