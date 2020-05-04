@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c251ecc361c89bc8ea62a1d2bfd7b1a",
+    "revision": "2d6ad6d7cbde5eb665f60f56dfda3545",
     "url": "/gitPgTest/index.html"
   },
   {
-    "revision": "e2cf5ce698228868b439",
-    "url": "/gitPgTest/static/css/main.d1b05096.chunk.css"
+    "revision": "9e62a0d79f951b5f9266",
+    "url": "/gitPgTest/static/css/main.bcf2fe9c.chunk.css"
   },
   {
     "revision": "e7b50bd06a0db8e7d61f",
@@ -16,11 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gitPgTest/static/js/2.6ef10ec2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e2cf5ce698228868b439",
-    "url": "/gitPgTest/static/js/main.d9c30d10.chunk.js"
+    "revision": "9e62a0d79f951b5f9266",
+    "url": "/gitPgTest/static/js/main.69e29c8b.chunk.js"
   },
   {
     "revision": "c64911947524b2856f80",
     "url": "/gitPgTest/static/js/runtime-main.62a13408.js"
+  },
+  {
+    "revision": "ebe2e160b022fb439302080008e454d9",
+    "url": "/gitPgTest/static/media/background.ebe2e160.jpg"
   }
 ]);
